@@ -1,0 +1,38 @@
+.main-container {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.main-container #logo {
+    width: 80px;
+}
+
+.main-container .empty {
+    font-size: 32px;
+    color: #999;
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+#profile-list {
+    margin-top: 20px;
+}
+
+#profile-list img {
+    width: 100%;
+}
+
+#profile-list li {
+    /* margin: 10px; */
+    cursor: pointer;
+}
+
+.buttons .like {
+    background-color: #4CAF50;
+}
+
+.buttons .dislike {
+    background-color: #F44336;
+}
